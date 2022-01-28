@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 这是我2022年起开始拟定的一些计划安排😄
-![plan](https://user-images.githubusercontent.com/30925114/151509303-727833a7-957a-424c-b03a-05a18275634b.png)
+## 下面是我2022年起开始拟定的一些计划安排😄
+![plan](https://user-images.githubusercontent.com/30925114/151509933-2eee8311-def5-468f-b70a-5716aff61ca5.png)
+
