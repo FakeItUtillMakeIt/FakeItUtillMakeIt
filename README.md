@@ -1,4 +1,5 @@
 ### Hi guys 👋
+欢迎来到JinLi的github，这里是我的学习园地，将会不定时分享和学习一些新的知识。
 
 <!--
 **FakeItUtillMakeIt/FakeItUtillMakeIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
