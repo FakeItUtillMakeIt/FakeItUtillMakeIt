@@ -1,6 +1,8 @@
 ### Hi guys 👋
 欢迎来到JinLi的github，这里是我的学习园地，将会不定时分享和学习一些新的知识。
-
+![My Wechat](https://img.shields.io/badge/WeChat-JinLi-red?style=flat&logo=WeChat)
+![My QQ](https://img.shields.io/badge/QQ-2809338085-red?style=flat&logo=TencentQQ&logoColor=FFD700)
+[![Mail Badge](https://img.shields.io/badge/Mail-2809338085@qq.com-red?style=flat&logo=Minutemailer&logoColor=white&link=mailto:2809338085@qq.com)](mailto:2809338085@qq.com)
 <!--
 **FakeItUtillMakeIt/FakeItUtillMakeIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,6 +12,7 @@ Here are some ideas to get you started:
 - 🏠 Currently living in ChongQing, China.
 - 💻 Working in BeiJing OneSpace Company Ltd.
 - 📝 Ask me about Python, C++ or my projects on [2809338085@qq.com](mailto:2809338085@qq.com).
+
 
 ### Tech Stack 🛠
 
@@ -32,21 +35,10 @@ Here are some ideas to get you started:
 
 ## 下面是我2022年起开始拟定的一些计划安排😄👋👋👋
 ![plan](https://user-images.githubusercontent.com/30925114/151509933-2eee8311-def5-468f-b70a-5716aff61ca5.png)
-
-## Hello GitHub Fans 👋
-
-![My Wechat](https://img.shields.io/badge/WeChat-Qitianyujqk-red?style=flat&logo=WeChat)
-![My QQ](https://img.shields.io/badge/QQ-1124351512-red?style=flat&logo=TencentQQ&logoColor=FFD700)
-[![Mail Badge](https://img.shields.io/badge/Mail-qitianyuqty@163.com-red?style=flat&logo=Minutemailer&logoColor=white&link=mailto:qitianyuqty@163.com)](mailto:qitianyuqty@163.com)
 ---
 <img align="right" src="https://github.com/QiTianyu-0403/QiTianyu-0403/blob/main/1.jpeg" width="280"/>
 
-### I'm Tianyu Qi
 
-- 💁 An Automation Postgraduate Student. & Open Source enthusiast.
-- 🎓 Have got the bachelor degree in the China University of Geosciences, Wuhan.
-- 🏠 Currently studying in Beijing Institute of Technology, China.
-- 💻 Interned in the IoT technology department of Taiji Computer Corporation Limited.
-- 📝 Ask me about Python, C++ or my projects on [qitianyuqty@163.com](mailto:qitianyuqty@163.com).
----
+
+
 
