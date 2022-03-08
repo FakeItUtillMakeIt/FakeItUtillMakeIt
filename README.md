@@ -36,9 +36,8 @@ Here are some ideas to get you started:
 
 
 ## 2022年拟定计划安排😄👋👋👋
-![plan](https://user-images.githubusercontent.com/30925114/151509933-2eee8311-def5-468f-b70a-5716aff61ca5.png)
----
-<img align="right" src="https://user-images.githubusercontent.com/30925114/151509933-2eee8311-def5-468f-b70a-5716aff61ca5.png" width="280"/>
+
+<img align="center" src="https://user-images.githubusercontent.com/30925114/151509933-2eee8311-def5-468f-b70a-5716aff61ca5.png" width="400"/>
 
 
 
