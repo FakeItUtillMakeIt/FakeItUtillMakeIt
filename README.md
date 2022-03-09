@@ -5,7 +5,7 @@ Hi guys 👋
 ![My Wechat](https://img.shields.io/badge/WeChat-JinLi-red?style=flat&logo=WeChat)
 ![My QQ](https://img.shields.io/badge/QQ-2809338085-red?style=flat&logo=TencentQQ&logoColor=FFD700)
 [![Mail Badge](https://img.shields.io/badge/Mail-2809338085@qq.com-red?style=flat&logo=Minutemailer&logoColor=white&link=mailto:2809338085@qq.com)](mailto:2809338085@qq.com)
-[!radius](https://img.shields.io/badge/rss-rss-green&link=https://fakeitutillmakeit.github.io/)
+[![radius](https://img.shields.io/badge/rss-rss-green)
 
 
 - 💁 A programmer use web & Open Source enthusiast.
