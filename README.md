@@ -8,10 +8,10 @@ Hi guys 👋
 ![fakeitutillmakeit.github.io](https://img.shields.io/twitter/url?color=green&label=fakeitutillmakeit.github.io&logo=rss&logoColor=orange&url=https%3A%2F%2Ffakeitutillmakeit.github.io%2F)
 
 
-- 💁 A programmer use web & Open Source enthusiast.
-- 🏠 Currently living in ChongQing, China.
-- 💻 Working in BeiJing OneSpace Company Ltd.
-- 📝 Ask me about Python, C++ or my projects on [2809338085@qq.com](mailto:2809338085@qq.com).
+- 💁 面向web编程程序员 & 开源轮子重造者.
+- 🏠 生活在中国重庆.
+- 💻 在北京零壹空间航天科技有限公司工作.
+- 📝 工作中常用的语言有C++,QT,Python等 [2809338085@qq.com](mailto:2809338085@qq.com).
 
 ### 常用技术🛠
 
