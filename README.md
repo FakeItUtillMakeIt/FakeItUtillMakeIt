@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 ## 2022年拟定计划安排😄👋👋👋
 
-<img align="center" src="https://user-images.githubusercontent.com/30925114/151509933-2eee8311-def5-468f-b70a-5716aff61ca5.png" width="400"/>
+<img align="center" src="https://user-images.githubusercontent.com/30925114/151509933-2eee8311-def5-468f-b70a-5716aff61ca5.png" width="90%"/>
 
-<img align="right" width="51%" src="https://github-readme-stats.vercel.app/api?username=fakeitutillmakeit&title_color=eb1f6a&icon_color=999&text_color=999999&bg_color=0,27282200,0000000F&show_icons=true&hide_border=true&count_private=true">
+<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=fakeitutillmakeit&title_color=eb1f6a&icon_color=999&text_color=999999&bg_color=0,27282200,0000000F&show_icons=true&hide_border=true&count_private=true">
 
-<img align='right' width='51%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeitutillmakeit&hide=html,java,jupyter%20notebook,css&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true">
+<img align="center" width='90%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeitutillmakeit&hide=html,java,jupyter%20notebook,css&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true">
 
 
 
