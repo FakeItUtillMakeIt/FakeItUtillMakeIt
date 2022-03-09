@@ -4,13 +4,9 @@ Hi guys 👋
 ### 联系方式
 ![My Wechat](https://img.shields.io/badge/WeChat-JinLi-red?style=flat&logo=WeChat)
 ![My QQ](https://img.shields.io/badge/QQ-2809338085-red?style=flat&logo=TencentQQ&logoColor=FFD700)
-[![Mail Badge](https://img.shields.io/badge/Mail-2809338085@qq.com-red?style=flat&logo=Minutemailer&logoColor=white&link=mailto:2809338085@qq.com)](mailto:2809338085@qq.com)
-[!radius](https://fakeitutillmakeit.github.io/)
-<!--
-**FakeItUtillMakeIt/FakeItUtillMakeIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Mail Badge](https://img.shields.io/badge/Mail-2809338085@qq.com-red?style=flat&logo=Minutemailer&logoColor=white&link=mailto:2809338085@qq.com)](mailto:2809338085@qq.com)
+!radius](https://fakeitutillmakeit.github.io/)
 
-Here are some ideas to get you started:
--->
 - 💁 A programmer use web & Open Source enthusiast.
 - 🏠 Currently living in ChongQing, China.
 - 💻 Working in BeiJing OneSpace Company Ltd.
@@ -40,9 +36,9 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://user-images.githubusercontent.com/30925114/151509933-2eee8311-def5-468f-b70a-5716aff61ca5.png" width="90%"/>
 
-<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=fakeitutillmakeit&title_color=eb1f6a&icon_color=999&text_color=999999&bg_color=0,27282200,0000000F&show_icons=true&hide_border=true&count_private=true">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=fakeitutillmakeit&title_color=eb1f6a&icon_color=999&text_color=999999&bg_color=0,27282200,0000000F&show_icons=true&hide_border=true&count_private=true">
 
-<img align="center" width='90%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeitutillmakeit&hide=html,java,jupyter%20notebook,css&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true">
+<img align="right" width='45%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakeitutillmakeit&hide=html,java,jupyter%20notebook,css&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true">
 
 
 
