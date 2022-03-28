@@ -1,6 +1,6 @@
 ### 个人简介
 Hi guys 👋
-欢迎来到JinLi的github，这里是我的学习园地，将会不定时分享和学习一些新的分享。
+欢迎来到JinLi的github，这里是我的学习园地，不定时分享和学习一些新的东西。
 ### 联系方式
 ![My Wechat](https://img.shields.io/badge/WeChat-JinLi-red?style=flat&logo=WeChat)
 ![My QQ](https://img.shields.io/badge/QQ-2809338085-red?style=flat&logo=TencentQQ&logoColor=FFD700)
