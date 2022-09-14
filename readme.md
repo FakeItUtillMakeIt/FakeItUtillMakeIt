@@ -30,6 +30,7 @@ Hi guys 👋
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=VisualStudio&color=483D8B)
 ![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=Qt&color=483D8B)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&color=483D8B)
+https://octodex.github.com/nuxtocat/
 
 
 
