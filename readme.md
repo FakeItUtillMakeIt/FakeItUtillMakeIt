@@ -31,7 +31,7 @@ Hi guys 👋
 ![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=Qt&color=483D8B)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&color=483D8B)
 
-![image](https://user-images.githubusercontent.com/30925114/190095159-2dee53c9-57d0-4c83-8949-9a71936f3e07.png)
+![gif](https://user-images.githubusercontent.com/30925114/190095159-2dee53c9-57d0-4c83-8949-9a71936f3e07.png)
 
 
 
