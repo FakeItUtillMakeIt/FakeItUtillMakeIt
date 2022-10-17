@@ -1,6 +1,6 @@
-### 个人简介
-Hi guys 👋
-欢迎来到JinLi的github，这里是我的学习园地，不定时分享和学习一些新的东西。
+###
+ 👋
+
 ### 联系方式
 ![My Wechat](https://img.shields.io/badge/WeChat-lijinmerryeveryday-red?style=flat&logo=WeChat)
 ![My QQ](https://img.shields.io/badge/QQ-2809338085-red?style=flat&logo=TencentQQ&logoColor=FFD700)
@@ -8,10 +8,10 @@ Hi guys 👋
 ![fakeitutillmakeit.github.io](https://img.shields.io/twitter/url?color=green&label=fakeitutillmakeit.github.io&logo=rss&logoColor=orange&url=https%3A%2F%2Ffakeitutillmakeit.github.io%2F)
 
 
-- 💁 面向web编程程序员 & 开源轮子重造者.
-- 🏠 在重庆.
-- 💻 平平无奇上班狗，时时刻刻想躺平.
-- 📝 常用的语言C++,QT,Python.
+- 💁 
+- 🏠 
+- 💻 
+- 📝 
 
 ### 常用技术🛠
 
